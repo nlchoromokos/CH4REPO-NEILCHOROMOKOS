@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=first\ last\ home\ school\ test1\ test2\ test3
+comment1.target=Student(java.lang.String,\ java.lang.String,\ Address,\ Address,\ int,\ int,\ int)
+comment2.params=first\ last\ home\ school
+comment2.target=Student(java.lang.String,\ java.lang.String,\ Address,\ Address)
+comment2.text=\r\n\ takes\ just\ name\ and\ address\ and\ sets\ all\ tests\ to\ 0's\r\n
+comment3.params=
+comment3.target=double\ testAverage()
+comment3.text=\r\n\ returns\ average\ of\ test\ scores\ for\ student\ \r\n\ @return\ double\ value\ average\ of\ 3\ tests\r\n
+comment4.params=num\ score
+comment4.target=void\ setTestScore(int,\ int)
+comment4.text=\r\n\ sets\ one\ test\ score\r\n\ @param\ number\ of\ test\ to\ be\ changed\ (1-3),\ int\ score\ to\ be\ changed\ to\r\n
+comment5.params=num
+comment5.target=int\ getTestScore(int)
+comment5.text=\r\n\ gets\ one\ test\ score\r\n\ @param\ number\ of\ test\ to\ get\ (1-3)\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
